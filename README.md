@@ -1,1 +1,6 @@
 # Ecommerce-product-reviews---Pairwise-ranking-and-sentiment-analysis
+
+## Project Overview 
+E-commerce platforms offer customers the added benefit of purchasing products accompanied by suggestions in the form of reviews. While these reviews are undeniably valuable and influential for potential buyers, the sheer volume of reviews can overwhelm customers, making it challenging to identify the most useful ones. This issue of information overload, where customers struggle to filter out meaningful reviews, is a key focus of this project. Our proposed approach, which will be discussed in detail later, addresses this by ranking reviews based on their relevance to the product, effectively pushing irrelevant reviews lower in the ranking.
+
+The project is structured into four main phases: data preprocessing and filtering (including language detection, gibberish detection, and profanity detection), feature extraction, pairwise review ranking, and classification. The final output is a curated list of reviews for a specific product, ranked according to their relevance using a pairwise ranking methodology. This ensures that customers are presented with the most informative and pertinent reviews, enhancing their decision-making process.
